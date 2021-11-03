@@ -1,0 +1,77 @@
+.headerContainer{
+  position: absolute;
+  width: 100%;
+}
+.navContainer{
+position: absolute;
+margin: 0 1rem;
+padding: 0;
+box-sizing: border-box;
+  ul {
+    max-width: 50rem;
+    list-style: none;
+    padding: 0;
+  }
+  ul, li, a{
+    padding: 0.5rem;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.3rem;
+    transition: 0.4s;
+    color: var(--white);
+  }
+  li {
+    :hover{
+      cursor: pointer;
+      opacity: .9;
+      
+    }
+  }
+}
+.centralImage{
+  max-width:100%;
+  .logo{
+    position: relative;
+    margin-top:3rem;
+    margin-left: 12rem;
+    margin-right: 30rem;
+  }
+  > img {
+  z-index: -10;
+  position: relative;
+  max-width: 100%;
+ }
+ .titleContainer {
+   position: absolute;
+   direction: rtl;
+ }
+ h1 {
+   margin-left: 71rem;
+   margin-top: 15rem;
+   font-size: 2.5rem;
+   color: var(--verde-botao);
+    strong {
+      font-weight: bold;
+   }
+ }
+}
+.textContainer {
+  position: absolute;
+  direction: rtl;
+  height: 7.5rem;
+  width: 79.375rem;
+  margin-left: 13.75rem;
+  p {
+    margin-top: 18rem;
+    margin-left: 50rem;
+    font-size: 2.5rem;
+    color: var(--white);
+  }
+  .fase {
+    margin-top: -2.5rem;
+    margin-left: 52.5rem;
+    color: var(--white);
+    font-size: 2.5rem;
+  }
+
+}

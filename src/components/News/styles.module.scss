@@ -1,0 +1,30 @@
+.titleContainer {
+  position: absolute;
+  margin-top: 5rem;
+  margin-left: 18rem;
+  h1 {
+    font-size: 5rem;
+    color: var(--fonte-principal);
+  }
+}
+.newsContainer {
+  display: flex;
+  padding: 1rem;
+  height: 32rem;
+  width: 25rem;
+  .newsContent{
+    width: 120rem;
+    margin-left: 25rem;
+    margin-top: 20rem;
+    h2 {
+      color: var(--fonte-principal);
+      font-size: 2rem;
+      text-align: center;
+      font-weight: bold;
+    }
+    p {
+      font-size: 1.5rem;
+      text-align: center;
+    }
+  }
+}

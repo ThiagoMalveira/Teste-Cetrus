@@ -1,0 +1,52 @@
+.titleContainer {
+  position: absolute;
+  margin-top: 35rem;
+  margin-left: 18rem;
+  h1 {
+    font-size: 5rem;
+    color: var(--fonte-principal);
+  }
+}
+
+.locationContainer {
+  position: relative;
+  display: flex;
+  padding: 1rem;
+  height: 32rem;
+  .locationContent{
+    width: 120rem;
+    margin-left: 3rem;
+    margin-top: 50rem;
+    button {
+      margin-top: 2rem;
+      margin-left: 7rem;
+      width: 20rem;
+      height: 3rem;
+      font-size: 2rem;
+      border-radius: 3rem;
+      background-color: var(--verde-botao);
+      color: var(--white);
+      border: none;
+      &:hover{
+        opacity: 0.9;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+.new {
+  position: absolute;
+  margin-top: 2rem;
+  margin-left: -12px;
+  width: 8rem;
+  height: 3rem;
+  background-color: var(--verde-botao);
+  p{
+    margin-top: -0.7rem;
+    margin-left: -1rem;
+    font-size: 2.7rem;
+    text-align: center;
+    color: var(--white);
+  }
+}
