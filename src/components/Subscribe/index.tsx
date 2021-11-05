@@ -1,19 +1,21 @@
 import SP from '../../assets/imgs/unitSP.png'
 import RE from '../../assets/imgs/unitRE.png'
 import DF from '../../assets/imgs/unitDF.png'
+
 import Modal from 'react-bootstrap/Modal'
 import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form'
 import ButtonGroup from 'react-bootstrap/ButtonGroup'
 
 import styles from './styles.module.scss';
+
 import { useState } from 'react'
 
 
 
 export function Subscribe (){
   const [show, setShow] = useState(false);
-
+  
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
@@ -64,7 +66,7 @@ export function Subscribe (){
                   <Button variant="secondary" onClick={handleClose}>
                     Fechar
                   </Button>
-                  <Button variant="primary" onClick={handleClose}>
+                  <Button variant="primary" type="submit">
                     Enviar
                   </Button>
                   </ButtonGroup>
