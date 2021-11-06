@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src=".github/projeto.png"  alt="Logo"  width="240"><br><br>
+	<img src=".github/Projeto.png"  alt="Logo"  width="240"><br><br>
     Teste para a empresa Cetrus
 </h1>
 
