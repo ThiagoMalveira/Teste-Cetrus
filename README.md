@@ -73,6 +73,7 @@ npm start
 
 - [ReactJs](https://reactjs.org//)
 - [Typescript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 
 
 Released in 2021.
