@@ -4,8 +4,6 @@
 </h1>
 
 <div>
-    <p align="center">
-
     <a href="https://www.linkedin.com/in/thiagomalveira/" target="_blank">
         <img src="https://img.shields.io/static/v1?label=Author&message=Thiago&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Thiago">
     </a>
