@@ -8,12 +8,14 @@ export function Header(){
       <div className={styles.centralImage}>
       <nav className={styles.navContainer}>
       <img className={styles.logo} src={logoCetrus} alt="Cetrus" />
-          <li><a href="#Header">home</a></li>
-          <li><a href="#CursoHas">o curso tem</a></li>
-          <li><a href="#News">novidades do curso</a></li>
-          <li><a href="#Subscribe">unidades</a></li>
+        <ul>
+          <li><a href="#">home</a></li>
+          <li><a href="#">o curso tem</a></li>
+          <li><a href="#">novidades do curso</a></li>
+          <li><a href="#">unidades</a></li>
           <li><a href="#">calendário de provas</a></li>
           <li><a href="#">sobre o cetrus</a></li>
+        </ul>
       </nav>
         <div className={styles.titleContainer}>
           <h1>curso <strong>preparatório</strong></h1>
