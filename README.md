@@ -20,7 +20,7 @@
     </a>
   <br>
     <a  href="#">
-      <img  src="https://img.shields.io/static/v1?label=Framework&message=Angular&color=e23237&style=for-the-badge&logo=Angular"  alt="Language: Angular">
+      <img  src="https://img.shields.io/static/v1?label=Framework&message=React&color=e23237&style=for-the-badge&logo=React"  alt="Language: React">
     </a>
     <a href="#">
       <img  src="https://img.shields.io/static/v1?label=Language&message=Bootstrap&color=563d7c&style=for-the-badge&logo=Bootstrap"  alt="Language: Bootstrap">
