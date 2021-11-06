@@ -10,7 +10,7 @@
             (Put here the languages that built your Project.)<br><br>
         </em>
     <a href="https://www.linkedin.com/in/thiagomalveira/" target="_blank">
-        <img src="https://img.shields.io/badge/Author-Thiago-bluehttps://img.shields.io/badge/Author-Thiago-blue" alt="Author: Thiago">
+        <img src="https://img.shields.io/static/v1?label=Author&message=Thiago&color=00ba6d&style=for-the-badge&logo=LinkedIn" alt="Author: Thiago">
     </a>
     <a href="#">
         <img src="https://img.shields.io/static/v1?label=Language&message=Typescript&color=blue&style=for-the-badge&logo=Typescript" alt="Language: Typescript">
